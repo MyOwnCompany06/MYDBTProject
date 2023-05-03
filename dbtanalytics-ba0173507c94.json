@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dbtanalytics",
+  "private_key_id": "ba0173507c94da9fa5633d48761bfe75884657b3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC9Cr4cz2xk242E\nU4l6d4Xh4D8jxcl6bAWLSW0pzj95kcwAIihnNZFW9LP7YjUwxLitaG4pMTFKpx8a\nM+QSuZmkuXEyvlaG3yfkQbfwMNuWUJ9t9IUWwK8LSaBgddTQaEeX+HiWXtwW4qrb\nMxPgZUQZdy2eskY4AQ1SuqZ2s9Ae0ZPuY/7zPnEwpo4d2DQJvsnXxWx0UUkh59Mj\nqDgmPCX+s2mneuBsvCJUxPD3LEXC85xleWHn2e0UhLwVuNYBFjhhKfM2pXQxxWzk\nzjOiqKbeMC5bsyiL9eBF1jG4TtNEEzpK/dVdlZLDGyuDarrF/qH1qIngRwoEKEWB\nXO+hG90bAgMBAAECggEAS6o6mP5/BMmKFb54BwBDIrsmmpNmhu0otO0RWAvZBThR\nnnYNlO3wfA0a4xIWdywuPR5RBYTOlXJZ9Rty/Pmz4SZmhCiCKp60cVzKmkV8BujD\nP3gBMy+xgIOaQTG4mig7C71kys8yKajVOUJzALyXqte0d1Ik3/Kv2f6idV2YflS1\nJmg47N3LebAe8cWbfii1sKSFy3WD0lmMn1jPGfhq425NaPZE8fHXSlnzdlp173ua\ng066RBQkbflgcnSYemDdeHOHObGE4jgiOpxqznhb04zc6T4HOJfkeSV+wZXaVKl2\nqBRlZ3ptdwLG/LsRAFlYJNJHf+qHQ2HJB3E00qR9BQKBgQDmUZ6IA8a6q3icEPbK\ndT6YjDo2UpIinpvAqoJuJ9+M9Z9HS2OaiMKHNtiyO6HWomX50WogYdTI1wj5q/xM\nFNXtM1/shtIlQtwDRzfeuMYgVHQqzqTz4URKe4cSBdjaimV45jpEWzxmjFgt+x7a\ndZet/Q/ZcgI9Y5d+43PzLwdgnwKBgQDSHuNOHw+3CGMLWixgJmjSE1BR32j0NIlM\nEYoDIt70Hr9J7RKdJp5DCGa8PlIJkqc70HFSNredKn+p9T1i0ph4VPU9B3JQsAXe\n/h/YZ/VPKPWzg6htQTCrZtpPsn5xhThHtvm0wjFOg3AUoes2oDNDXuxLKrDDpkny\n6rGTSUTGBQKBgGWYiVK8P7RmIRzOyt5B26vU53TA9Z950YCqdkB7LDx0uJ7tXXF0\ndELK6cmtTlVsa4lIXAUOwpsZZ+cie3dgFYG9kMm4KwiutnhnuPhxD0yBlICxiMff\njY1BcjJ8C81TETHEdN1kVX9y1w7pYBHDn3XrVEt55A0KWnBpiuMx0pJHAoGAR15e\nboZ2XADpQ03ZjL7/E3uj6GstxuShTckXS4FooRpgdsejbuVTFAmie4Xfb4j0bIic\nNQSI0UVCH4RA2XQWfai9s4D3/xgKpndCccq9s6mB6vtpFdLyqQVCWZeTAxPwzcsE\nfbUH8lcKlrd4oRFA2D1BnTZe29V7gJrevdxBE9ECgYByds0DfvmdEFHCWX0YU5t7\nE0zRheaNIyHEA/TEmGBwIxJuYwyr28amGMsiV9HKzEX+z3lKU6aUYV2vrZQ8FIFS\nt9blEvPfOgbMd0D+uslTRMa4Qcva7zLxdJydI85kIJWNWeWwu+vfRwYcwnFlhi8Z\neLz3BVkjPKjYQtbaVB5MBw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "id-dbtanalytics@dbtanalytics.iam.gserviceaccount.com",
+  "client_id": "101852985408076721482",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/id-dbtanalytics%40dbtanalytics.iam.gserviceaccount.com"
+}
